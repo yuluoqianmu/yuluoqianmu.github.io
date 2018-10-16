@@ -1,17 +1,32 @@
-# Skinny Bones Jekyll Starter
+# About
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
-
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
 ---
 
-## Notable Features
+这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+博客访问地址：[点击这里](http://gaohaoyang.github.io)
+
+**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+
+<!--
+
+## 被引用信息
+
+使用了我的模板并写明来源的人：   
+
+* [dreamholy](http://dreamholy.github.io/)
+
+没有注明来源的人：
+
+* [yangshuailing](http://yangshuailing.github.io/com/)
+* [huapu728](http://huapu728.github.io/)
+* [greatbuger](http://greatbuger.github.io/) 
+
+
+-->
+
+
